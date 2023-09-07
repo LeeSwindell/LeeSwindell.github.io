@@ -3,9 +3,9 @@
 const data = [
   {
     image: '../img/hogwartsbattlenoharry.png',
-    title: 'Board game',
+    title: 'Hogwarts Battle',
     time: '[Go/Python/React]',
-    description: 'Online + multiplayer deck building board game "Hogwarts Battle"',
+    description: 'Online + multiplayer deck building board game',
     link: 'https://github.com/leeswindell/boardgame-battle'
   },
   {
@@ -17,7 +17,7 @@ const data = [
   },
   {
     image: '../img/raft.png',
-    title: 'Raft Consensus Protocol',
+    title: 'Raft Consensus Algorithm',
     time: '[Go]',
     description: 'Implementation of the distributed systems research paper Raft',
     link: 'https://github.com/leeswindell/Raft-6.824'
