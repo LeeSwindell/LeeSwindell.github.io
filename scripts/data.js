@@ -2,24 +2,24 @@
 
 const data = [
   {
-    image: '../img/hogwartsbattle.png',
-    title: 'Hogwarts Battle',
+    image: '../img/hogwartsbattlenoharry.png',
+    title: 'Board game',
     time: '[Go/Python/React]',
-    description: 'Flawless board game design - absolute perfection',
+    description: 'Online + multiplayer deck building board game "Hogwarts Battle"',
     link: 'https://github.com/leeswindell/boardgame-battle'
   },
   {
     image: '../img/synth.png',
     title: 'Synthesizer',
     time: '[C++]',
-    description: 'Polyphonic Synthesizer built using C++, integrated with all major audio workstations.',
+    description: 'Polyphonic Synthesizer, integrated with all major audio workstations',
     link: 'https://github.com/leeswindell/synth2'
   },
   {
     image: '../img/raft.png',
     title: 'Raft Consensus Protocol',
     time: '[Go]',
-    description: 'Implementation of the distributed systems research paper Raft using Go.',
+    description: 'Implementation of the distributed systems research paper Raft',
     link: 'https://github.com/leeswindell/Raft-6.824'
   },
   {
@@ -40,7 +40,7 @@ const data = [
     image: '../img/qm.png',
     title: 'Quantum Labs',
     time: '[Python]',
-    description: 'Numerical Analysis + modelling of modern QM problems',
+    description: 'Numerical analysis + modeling of modern QM problems',
     link: 'https://github.com/leeswindell/example-QM'
   },
 ]
